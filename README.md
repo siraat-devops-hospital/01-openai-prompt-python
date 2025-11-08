@@ -117,9 +117,4 @@ Pull requests are welcome! If you find an issue or have an idea, open a discussi
 
 > “Prompts are not just inputs — they’re conversations waiting to happen.” 💡
 
-```
-
 ---
-
-
-```
