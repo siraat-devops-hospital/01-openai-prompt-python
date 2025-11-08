@@ -121,5 +121,3 @@ Pull requests are welcome! If you find an issue or have an idea, open a discussi
 
 ---
 
-Would you like me to generate this again as a **downloadable `.md` file** once the tool is available?
-```
