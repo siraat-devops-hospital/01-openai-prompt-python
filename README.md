@@ -1,8 +1,3 @@
-Here’s a **GitHub-ready README.md** file for your repo **`openai-prompt-python`**, complete with elegant formatting, emojis, badges, and clear sections 👇
-
----
-
-````markdown
 # 🚀 openai-prompt-python  
 > 🧠 *Master the Art of Prompt Engineering in Python with GPT & the OpenAI API*
 
@@ -69,7 +64,7 @@ Developers, data enthusiasts, and AI professionals who want to:
 
 ## 🚀 Getting Started  
 
-```bash
+```
 # Clone this repository
 git clone https://github.com/yourusername/openai-prompt-python.git
 
@@ -126,5 +121,5 @@ Pull requests are welcome! If you find an issue or have an idea, open a discussi
 
 ---
 
-Would you like me to make this **more like a “course landing page”** (like for GitHub Pages or a portfolio site), or keep it **developer-style** (like a project repo)?
+Would you like me to generate this again as a **downloadable `.md` file** once the tool is available?
 ```
